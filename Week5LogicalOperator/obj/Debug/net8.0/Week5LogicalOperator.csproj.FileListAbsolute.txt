@@ -1,0 +1,14 @@
+C:\Users\kevin\source\repos\Week5LogicalOperator\Week5LogicalOperator\bin\Debug\net8.0\Week5LogicalOperator.exe
+C:\Users\kevin\source\repos\Week5LogicalOperator\Week5LogicalOperator\bin\Debug\net8.0\Week5LogicalOperator.deps.json
+C:\Users\kevin\source\repos\Week5LogicalOperator\Week5LogicalOperator\bin\Debug\net8.0\Week5LogicalOperator.runtimeconfig.json
+C:\Users\kevin\source\repos\Week5LogicalOperator\Week5LogicalOperator\bin\Debug\net8.0\Week5LogicalOperator.dll
+C:\Users\kevin\source\repos\Week5LogicalOperator\Week5LogicalOperator\bin\Debug\net8.0\Week5LogicalOperator.pdb
+C:\Users\kevin\source\repos\Week5LogicalOperator\Week5LogicalOperator\obj\Debug\net8.0\Week5LogicalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\Week5LogicalOperator\Week5LogicalOperator\obj\Debug\net8.0\Week5LogicalOperator.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Week5LogicalOperator\Week5LogicalOperator\obj\Debug\net8.0\Week5LogicalOperator.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Week5LogicalOperator\Week5LogicalOperator\obj\Debug\net8.0\Week5LogicalOperator.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Week5LogicalOperator\Week5LogicalOperator\obj\Debug\net8.0\Week5LogicalOperator.dll
+C:\Users\kevin\source\repos\Week5LogicalOperator\Week5LogicalOperator\obj\Debug\net8.0\refint\Week5LogicalOperator.dll
+C:\Users\kevin\source\repos\Week5LogicalOperator\Week5LogicalOperator\obj\Debug\net8.0\Week5LogicalOperator.pdb
+C:\Users\kevin\source\repos\Week5LogicalOperator\Week5LogicalOperator\obj\Debug\net8.0\Week5LogicalOperator.genruntimeconfig.cache
+C:\Users\kevin\source\repos\Week5LogicalOperator\Week5LogicalOperator\obj\Debug\net8.0\ref\Week5LogicalOperator.dll
